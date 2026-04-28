@@ -2,45 +2,45 @@
 
 ## 📌 ¿Qué es la Inteligencia Artificial?
 
-Sistema que usa datos para tomar decisiones y cumplir con objetivos
+Sistema que utiliza datos y modelos matemáticos para tomar decisiones o generar resultados de forma automática, optimizando un objetivo bajo condiciones de incertidumbre.
 
 ---
 
 ## 🤖 Machine Learning
 
-* Definición: La forma en que un modelo usa informacion para determinar su propio comportamiento y establecer un patron de respuesta
-* Ejemplo real: Modelos que se alimentan de informacion variada, como GPT, Opus, etc
-* Diferencia con IA: La IA es la herramienta, el ML habla de una forma en que esa herramienta se alimenta de informacion y determina su forma de trabajar
+* **Definición:** Técnica dentro de la IA donde un modelo aprende patrones a partir de datos para hacer predicciones o tomar decisiones sin estar programado explícitamente.
+* **Ejemplo real:** Un sistema que detecta spam en correos electrónicos basado en ejemplos previos.
+* **Diferencia con IA:** La IA es el concepto general; ML es una forma específica de lograr IA mediante aprendizaje a partir de datos.
 
 ---
 
 ## 🧠 Deep Learning
 
-* Definición: Campo similar a ML, con la diferencia de que usa redes neuronales para aprendizajes mas profundos y automatizados
-* Ejemplo real:
-* Diferencia con ML:Usa redes neuronales para realizar un analisis más profundo
+* **Definición:** Subcampo del Machine Learning que utiliza redes neuronales profundas para aprender representaciones complejas de los datos.
+* **Ejemplo real:** Reconocimiento facial en imágenes o detección de objetos en video.
+* **Diferencia con ML:** Deep Learning automatiza la extracción de características usando redes neuronales, mientras que ML tradicional suele requerir más intervención manual.
 
 ---
 
 ## ✨ IA Generativa
 
-* Definición: Modelos que generan contenido de diversas categorias
-* Ejemplo real: ChatGPT, Claude, Gemini
-* Por qué es diferente: Es la herramienta que suele estar de cara a la mayoria de usuarios. Ejecute acciones y genera resultados a partir de ello.
+* **Definición:** Tipo de IA que genera contenido nuevo (texto, imágenes, código, etc.) a partir de patrones aprendidos en grandes volúmenes de datos.
+* **Ejemplo real:** ChatGPT, Claude, Gemini
+* **Por qué es diferente:** No solo analiza o clasifica datos, sino que crea contenido nuevo prediciendo secuencias (por ejemplo, la siguiente palabra en un texto).
 
 ---
 
 ## ⚖️ Comparación general
 
-| Concepto | Qué hace | Ejemplo |
-| -------- | -------- | ------- |
-| IA       |          |         |
-| ML       |          |         |
-| DL       |          |         |
-| GenAI    |          |         |
+| Concepto | Qué hace                                           | Ejemplo                          |
+| -------- | -------------------------------------------------- | -------------------------------- |
+| IA       | Sistemas que toman decisiones inteligentes         | Sistemas de recomendación        |
+| ML       | Aprende patrones a partir de datos                 | Filtro de spam                   |
+| DL       | Aprende representaciones complejas automáticamente | Reconocimiento facial            |
+| GenAI    | Genera contenido nuevo                             | Chatbots, generación de imágenes |
 
 ---
 
 ## 🧩 Conclusión personal
 
-La IA pasa por diversas etapas, en ML y DL se enfocan en generar un aprendizaje de comportamiento para el modelo y determinar como podria responder, para luego asi llegar a tener herramientas de IA generativa como ChatGPT
+La Inteligencia Artificial no es una sola tecnología, sino un conjunto de enfoques. Machine Learning permite que los sistemas aprendan de datos, Deep Learning potencia ese aprendizaje con redes neuronales, y la IA Generativa utiliza estos avances para crear contenido nuevo. Sin embargo, todos estos sistemas funcionan principalmente mediante predicción de patrones, no por comprensión real.
